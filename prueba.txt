@@ -5,4 +5,4 @@ So we will expect you to know how to open Terminal in Mac or Command Prompt or P
 prueba de documento realizando cambios
 
 :w
-
+vamos a guardar el archivo con los cambios que estamos haciendo
