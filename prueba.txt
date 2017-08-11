@@ -6,4 +6,5 @@ prueba de documento realizando cambios
 
 :w
 vamos a guardar el archivo con los cambios que estamos haciendoshdjas
-este es otro comentario para aprender lo que hicimos en clase
+este es otro comentario para aprender lo que hicimos en clasanja
+Estes es otro cambio sobre el documento
