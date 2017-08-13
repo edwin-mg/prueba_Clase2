@@ -7,5 +7,12 @@ prueba de documento realizando cambios
 :w
 vamos a guardar el archivo con los cambios que estamos haciendoshdjas
 este es otro comentario para aprender lo que hicimos en clasanja
+<<<<<<< HEAD
 Estes es otro cambio sobre el documenta
 Un cambio mas en master
+=======
+Estes es otro cambio sobre el document
+
+este es el quinto cambio que se realiza al documento de pruebd
+Otro cambio realizado para verificar los comandos Git
+>>>>>>> edwin
